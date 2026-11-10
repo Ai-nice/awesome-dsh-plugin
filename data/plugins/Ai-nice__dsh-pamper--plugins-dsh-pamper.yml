@@ -4,3 +4,5 @@ category: fun
 description:
   en: 'Standalone Pamper desktop pet for DSH: characters, config, discovery, in-page overlay and a Windows transparent desktop window; no dsh-pet required.'
   zh: '完全独立的 pamper 桌宠：角色、配置、发现、页面内浮层和 Windows 桌面透明窗；不需要 dsh-pet。'
+
+icon: https://raw.githubusercontent.com/Ai-nice/dsh-pamper/main/assets/icon-512.png
