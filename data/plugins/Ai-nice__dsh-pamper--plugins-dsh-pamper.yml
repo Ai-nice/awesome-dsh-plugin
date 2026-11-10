@@ -1,0 +1,7 @@
+url: https://github.com/Ai-nice/dsh-pamper/tree/main/plugins/dsh-pamper
+name: Ai-nice/dsh-pamper#dsh-pamper
+category: fun
+description:
+  en: 'Host plugin for the Pamper desktop pet: serves the action catalog and downloads the selected transparent WebM actions on demand.'
+  zh: 'Pamper 桌宠的 Host 插件：提供动作目录，并按需下载所选的透明 WebM 动作。'
+tarball: https://github.com/Ai-nice/dsh-pamper/releases/latest/download/dsh-pamper.tgz
