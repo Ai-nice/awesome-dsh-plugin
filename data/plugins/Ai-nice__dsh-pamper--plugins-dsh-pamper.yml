@@ -2,6 +2,6 @@
 name: Ai-nice/dsh-pamper#dsh-pamper
 category: fun
 description:
-  en: 'Standalone Pamper desktop pet for DSH: 宠爱 page, in-page pet overlay, and on-demand transparent WebM action downloads; no dsh-pet required.'
-  zh: '独立 pamper 桌宠：宠爱页面、页面内宠物浮层、透明 WebM 动作按需下载；不需要 dsh-pet。'
+  en: 'Pamper 宠爱 UI suite for dsh-pet: patches the 宠爱 page (characters / config / discover) and adds on-demand transparent WebM action downloads.'
+  zh: 'pamper 宠爱页面套件：给 dsh-pet 打上角色/桌宠配置/发现页补丁，并支持透明 WebM 动作按需下载。'
 tarball: https://github.com/Ai-nice/dsh-pamper/releases/latest/download/dsh-pamper.tgz
